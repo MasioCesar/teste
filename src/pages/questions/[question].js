@@ -31,7 +31,12 @@ const Question = () => {
                     <CodeEditor />
                 </Box>
             </div>     
-            <Description descricao={descriptionData[router.query.question.toLowerCase()]['tarefa']} />           
+            <Description descricao={descriptionData[router.query.question.toLowerCase()]['tarefa']} exemplo={descriptionData[router.query.question.toLowerCase()]['exemplo']}
+              exemplo1 = {descriptionData[router.query.question.toLowerCase()]['exemplo1']} 
+              entrada = 
+
+            
+            />           
         </div>
 
       </Box>
