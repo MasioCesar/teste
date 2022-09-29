@@ -1,0 +1,78 @@
+{
+    "string": {
+        "name" : "String",
+        "questions": [ 
+            {
+        "task": "Some dois numeros",
+        "href": "soma",
+        "descricao": "Crie duas variaveis e atribua um número a cada uma delas, fazendo então a soma delas, e usa o comando console.log() para apresentar na tela"
+            },
+        
+            {
+        "task": "Divida dois numeros",
+        "href": "divisão",
+        "descricao": "Crie duas variaveis e atribua um número a cada uma delas, fazendo então a divisão delas, e usa o comando console.log() para apresentar na tela"
+            }
+        ]
+    },
+
+    "função":{
+        "name" : "Função",
+        "questions": [ 
+            {
+        "task": "Crie uma função",
+        "href": "criarfunção",
+        "descricao": "Crie duas variaveis e atribua um número a cada uma delas, fazendo então a soma delas, e usa o comando console.log() para apresentar na tela"
+            },
+        
+            {
+        "task": "Use uma função",
+        "href": "usarfunção",
+        "descricao": "Crie duas variaveis e atribua um número a cada uma delas, fazendo então a divisão delas, e usa o comando console.log() para apresentar na tela"
+            }
+        ]
+    },
+    "estrutura de repetição":{
+        "name" : "Estrutura de Repetição",
+        "questions": [ 
+            {
+            "task": "",
+            "descricao": ""
+            },              
+            {
+            "task": "",
+            "descricao": ""
+            }
+        ]
+    },
+    "classes":{
+        "name" : "Classes",
+        "questions": [ 
+            
+        ]
+    },
+    "operadores":{
+        "name" : "Operadores",
+        "questions": [ 
+            
+        ]
+    },
+    "variáveis e tipos de dados":{
+        "name" : "Variáveis e Tipos de Dados",
+        "questions": [ 
+            
+        ]
+    },
+    "arrays":{
+        "name" : "Arrays",
+        "questions": [ 
+            
+        ]
+    },
+    "estrutura condicional":{
+        "name" : "Estrutura Condicional",
+        "questions": [ 
+        
+        ]
+    }
+}
